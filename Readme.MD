@@ -21,7 +21,6 @@
  https://evercraft.co/share?key=0AD7E8
 
 ## Bill of Materials (BOM)
-![BOM](Photos/Bom.png)
 |NO.	|Category	|Part Name	|Qty	|Remark
 |--|--|--|--|--|
 |1	|Motion	|Shaft 5x48mm  D	|X1	|Option A*
@@ -46,7 +45,8 @@
 *Two types:
 Type A - without GT2 20T Pulley 
 Type B - With GT2 20T Pulley 
-					   
+![BOM](Photos/Bom.png)
+
 ## Briefly instructions
 ### Optical Endstop Module
 ![Pin](Photos/Pin.PNG)
