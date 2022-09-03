@@ -13,7 +13,7 @@
 
 ## Overall
 
-### S4 vs M4
+### M4 vs S4
 ![图片](Photos/Overview.jpg)
 
 ### Picture
@@ -21,6 +21,7 @@
 ### [3D Model]
 
 ## Bill of Materials (BOM)
+![BOM](Photos/Bom.png)
 |NO.	|Category	|Part Name	|Qty	|Remark
 |--|--|--|--|--|
 |1	|Motion	|Shaft 5x48mm  D	|X1	|Option A*
