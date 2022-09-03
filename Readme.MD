@@ -1,4 +1,4 @@
-# S4_Filament_motion_sensor [中文说明](./README_CN.md)
+# S4_Filament_motion_sensor [中文说明](./Readme_CN.MD)
 
 ## Objectives
 
