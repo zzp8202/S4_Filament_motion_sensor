@@ -13,11 +13,10 @@
 
 ## Overall
 
-### M4 vs S4
-![图片](Photos/Overview.jpg)
-
 ### Picture
+### M4 vs S4
 
+![图片](Photos/Overview.jpg)
 ### [3D Model]
 
 ## Bill of Materials (BOM)
@@ -48,6 +47,7 @@ Type A - without GT2 20T Pulley
 Type B - With GT2 20T Pulley 
 					   
 ## Briefly instructions
+![Pin](Photos/Pin.PNG)
 
 ## Config
 
