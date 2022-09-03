@@ -21,7 +21,7 @@
  https://evercraft.co/share?key=0AD7E8
 
 ### Video
- https://evercraft.co/share?key=0AD7E8
+ https://youtu.be/hLCMO_uFqfs
 
 
 ## Bill of Materials (BOM)
