@@ -47,6 +47,7 @@ Type A - without GT2 20T Pulley
 Type B - With GT2 20T Pulley 
 					   
 ## Briefly instructions
+### Optical Endstop Module
 ![Pin](Photos/Pin.PNG)
 
 ## Config
