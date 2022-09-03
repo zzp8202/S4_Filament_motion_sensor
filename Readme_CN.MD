@@ -39,7 +39,9 @@
 |18	|紧固件	|M5X12 BHCS	|X2	|Option
 
 * 两个版本
+
  版本A - 带GT2 20T 皮带轮
+ 
  版本B - 不带GT2 20T 皮带轮
  
 ![BOM](Photos/Bom.png)
