@@ -107,7 +107,7 @@ pause_delay: 0.5
 
 #### Below config is optional, unless you want make a tone when detected a runout.
 
-1. Copy **<Beeper.cfg>** to the config folder 
+1. Copy **<[Beeper.cfg](/Config/Beeper)>** to the config folder 
 
 open <[Beeper.cfg](/Config/Beeper)> check the **pin:** of  **[output_pin BEEPER_pin]**
 
