@@ -109,7 +109,7 @@ pause_delay: 0.5
 
 1. Copy **<Beeper.cfg>** to the config folder 
 
-open <[Beeper.cfg].(/Config/Beeper)> check the **pin:** of  **[output_pin BEEPER_pin]**
+open [Beeper.cfg](/Config/Beeper) check the **pin:** of  **[output_pin BEEPER_pin]**
 
 2.  Copy below config to your **<Printer.cfg>** 
 ```ini
