@@ -11,13 +11,14 @@
 ## 总览
 
 ### 照片
-
-### [3D 模型]
+![图片](Photos/Overview.jpg)
+### [3D 模型](./3D)
+ https://evercraft.co/share?key=0AD7E8
 
 ## ## 材料清单 (BOM)
 |序号	|种类	|名称	|数量	|备注
 |--|--|--|--|--|
-|1	|传动	|Shaft 5x48mm  D	|X1	|Option A|
+|1	|传动	|Shaft 5x48mm  D	|X1	|Option A*
 |2	|传动    |Shaft 3x20mm	|X1|	
 |3	|传动	|Bondtech Drive gear	|X1	
 |4	|传动	|F695 2RS	|X2	
@@ -31,12 +32,18 @@
 |12	|杂	|铁氟龙管 (4mm OD 3mm ID) 14mm	|X1	
 |13	|杂	|铁氟龙管 (4mm OD 3mm ID) 11.5mm	|X1	
 |14	|电子	|[光学限位模块](https://www.amazon.com/Optical-Endstop-Photoelectric-Control-Printer/dp/B07MFT8NWJ)	|X1|
-|15	|传动	|Shaft 5x54mm	|X1	|OptionB
-|16	|传动	|GT2 20T 5mm	|X1	|OptionB
-|17	|紧固件	|M3X8 BHCS	|X5	|OptionB
+|15	|传动	|Shaft 5x54mm	|X1	|OptionB*
+|16	|传动	|GT2 20T 5mm	|X1	|OptionB*
+|17	|紧固件	|M3X8 BHCS	|X5	|OptionB*
 |18	|紧固件	|M5X12 BHCS	|X2	|Option
 
+* 两个版本
+ 版本A - 带GT2 20T 皮带轮
+ 版本B - 不带GT2 20T 皮带轮
+ 
+![BOM](Photos/Bom.png)
 ## 简要说明
+![Pin](Photos/Pin.PNG)
 
 ## 配置
 
@@ -81,9 +88,9 @@ pause_delay: 0.5
 
 #### 下面配置是可选的，除非您想在检测到跳动时发出提示音。
 
-1. 拷贝 **<Beeper.cfg>** 到 config 文件夹 
+1. 拷贝 ** <[Beeper.cfg](/Config/Beeper)>** 到 config 文件夹 
 
-打开 <Beeper.cfg> 检查**[output_pin BEEPER_pin]**中**pin:** 的配置
+打开  <[Beeper.cfg](/Config/Beeper)> 检查**[output_pin BEEPER_pin]**中**pin:** 的配置
 
 2.  拷贝下面配置到 **<Printer.cfg>** 
 ```ini
