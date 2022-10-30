@@ -23,7 +23,7 @@
  
  https://youtu.be/ZRFLYlfTKq8
  
-### [3D 模型](./3D)
+### [3D](./3D)
  https://evercraft.co/share?key=0AD7E8
 
 
